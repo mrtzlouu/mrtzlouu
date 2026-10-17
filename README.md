@@ -16,13 +16,13 @@
 
 ## About
 
-Software Engineering student and web developer. I build technology that solves real problems, combining code, research and business sense.
+Software Engineering student and web developer. I build technology that solves real problems, combining code, research, and business sense.
 
 <div align="center">
 
-| Studying | Building | Recognition | Languages |
-|:---:|:---:|:---:|:---:|
-| Software Engineering<br>UNICAES | CuencaOS<br>Co-founder at [WUJU](https://wuju.dev) | StartupSTEM 2026<br>Finalist | Spanish, native<br>English, C1 |
+| Core Focus | Education | Ventures | Recognition | Languages |
+|:---:|:---:|:---:|:---:|:---:|
+| Full-Stack & Data | Software Engineering<br>**UNICAES** | Co-founder @ **[WUJU](https://wuju.dev)**<br>Creator of **[CuencaOS](https://cuencaos.vercel.app)** | **StartupSTEM 2026**<br>Finalist | Spanish (Native)<br>English (C1) |
 
 </div>
 
@@ -71,8 +71,14 @@ Software Engineering student and web developer. I build technology that solves r
 
 ## Contact
 
-Open to internships, part-time and freelance roles in software development.
+Open to internships, part-time, and freelance roles in software development. Let's connect.
 
-[Email](mailto:lourdesalejandraescobar.06@gmail.com) · [LinkedIn](https://www.linkedin.com/in/lourdes-alejandra-escobar-mart%C3%ADnez) · [WUJU](https://wuju.dev)
+<div align="center">
+
+<a href="mailto:lourdesalejandraescobar.06@gmail.com"><img src="https://img.shields.io/badge/Email-0A1F44?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/lourdes-alejandra-escobar-mart%C3%ADnez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://wuju.dev"><img src="https://img.shields.io/badge/WUJU-1F4E79?style=for-the-badge&logo=safari&logoColor=white" alt="WUJU" /></a>
+
+</div>
 
 <img width="100%" src="assets/footer.svg" alt="" />
