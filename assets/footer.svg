@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90" role="img" aria-label="">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1F4E79"/>
+      <stop offset="1" stop-color="#0A1F44"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#ffffff" fill-opacity="0.12"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="90" fill="url(#bg)"/>
+  <rect width="1200" height="90" fill="url(#dots)"/>
+  <text x="600" y="53" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" letter-spacing="4" fill="#9CC4F0">THANKS FOR VISITING</text>
+</svg>
