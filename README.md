@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=7FB4FF&center=true&vCenter=true&width=640&lines=Software+Engineering+Student+%40+UNICAES;Web+%26+Data+Developer;Co-founder+%26+Researcher+%40+WUJU;Building+technology+from+El+Salvador)](https://github.com/mrtzlouu)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=7FB4FF&center=true&vCenter=true&width=640&height=40&lines=Software+Engineering+Student+%40+UNICAES;Web+%26+Data+Developer;Co-founder+%26+Researcher+%40+WUJU;Building+technology+from+El+Salvador)](https://github.com/mrtzlouu)
 
 <a href="https://www.linkedin.com/in/lourdes-alejandra-escobar-mart%C3%ADnez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:lourdesalejandraescobar.06@gmail.com"><img src="https://img.shields.io/badge/Email-0A1F44?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -14,32 +14,29 @@
 
 ---
 
-## About me
+## About
 
-Second-year **Software Engineering** student at UNICAES in Santa Ana, El Salvador, with an uncommon mix: a technical accounting background, digital marketing experience and a drive to build products that solve real problems.
+Software Engineering student and web developer. I build technology that solves real problems, combining code, research and business sense.
 
-I'm the **co-founder and researcher at [WUJU](https://wuju.dev)**, a venture focused on research, technology and innovation from El Salvador. Before coding, I was already leading teams, and that mix of code, data and business sense is what sets me apart.
+<div align="center">
 
-- Currently building **CuencaOS**, a web platform on water and land in El Salvador and Central America
-- **StartupSTEM 2026** finalist
-- Participant in **Cursor's 24-hour buildathon** (July 2026)
-- English **C1**, native Spanish
-- Always learning: if I don't know a technology yet, I learn it fast
+| Studying | Building | Recognition | Languages |
+|:---:|:---:|:---:|:---:|
+| Software Engineering<br>UNICAES | CuencaOS<br>Co-founder at [WUJU](https://wuju.dev) | StartupSTEM 2026<br>Finalist | Spanish, native<br>English, C1 |
+
+</div>
 
 ---
 
 ## Featured project
 
-### [CuencaOS](https://cuencaos.vercel.app)
-> *Monitor · Analyze · Protect*
-
-A web platform on water and land in El Salvador and Central America, built to help communities and decision-makers access territorial information. I handled both the **research** that defines its content and the **development** of the site.
+**[CuencaOS](https://cuencaos.vercel.app)** is a web platform on water and land in El Salvador and Central America. I handled both its research and development.
 
 ![Astro](https://img.shields.io/badge/Astro-0A1F44?style=flat-square&logo=astro&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![StartupSTEM 2026](https://img.shields.io/badge/StartupSTEM_2026-Finalist-1F4E79?style=flat-square)
+![Research](https://img.shields.io/badge/Research-1F4E79?style=flat-square)
 
-**[Visit the live site →](https://cuencaos.vercel.app)**
+[Visit the live site](https://cuencaos.vercel.app)
 
 ---
 
@@ -72,10 +69,10 @@ A web platform on water and land in El Salvador and Central America, built to he
 
 ---
 
-## Let's connect
+## Contact
 
-I'm open to **internship, part-time and freelance** opportunities in software development.
+Open to internships, part-time and freelance roles in software development.
 
-Email: lourdesalejandraescobar.06@gmail.com · [LinkedIn](https://www.linkedin.com/in/lourdes-alejandra-escobar-mart%C3%ADnez)
+[Email](mailto:lourdesalejandraescobar.06@gmail.com) · [LinkedIn](https://www.linkedin.com/in/lourdes-alejandra-escobar-mart%C3%ADnez) · [WUJU](https://wuju.dev)
 
 <img width="100%" src="assets/footer.svg" alt="" />
