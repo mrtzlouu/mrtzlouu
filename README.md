@@ -1,9 +1,9 @@
 <!-- Header banner -->
-<img width="100%" alt="Lourdes Escobar" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,100:1F4E79&height=200&section=header&text=Lourdes%20Escobar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20%26%20Data%20Developer&descSize=20&descAlignY=60" />
+<img width="100%" alt="Lourdes Escobar, Software and Data Developer" src="assets/banner.svg" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=1F4E79&center=true&vCenter=true&width=640&lines=Software+Engineering+Student+%40+UNICAES;Web+%26+Data+Developer;Co-founder+%26+Researcher+%40+WUJU;Building+technology+from+El+Salvador+%F0%9F%87%B8%F0%9F%87%BB)](https://github.com/mrtzlouu)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=7FB4FF&center=true&vCenter=true&width=640&lines=Software+Engineering+Student+%40+UNICAES;Web+%26+Data+Developer;Co-founder+%26+Researcher+%40+WUJU;Building+technology+from+El+Salvador)](https://github.com/mrtzlouu)
 
 <a href="https://www.linkedin.com/in/lourdes-alejandra-escobar-mart%C3%ADnez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:lourdesalejandraescobar.06@gmail.com"><img src="https://img.shields.io/badge/Email-0A1F44?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -23,14 +23,14 @@ I'm the **co-founder and researcher at [WUJU](https://wuju.dev)**, a venture foc
 - Currently building **CuencaOS**, a web platform on water and land in El Salvador and Central America
 - **StartupSTEM 2026** finalist
 - Participant in **Cursor's 24-hour buildathon** (July 2026)
-- English **B2+**, native Spanish
+- English **C1**, native Spanish
 - Always learning: if I don't know a technology yet, I learn it fast
 
 ---
 
 ## Featured project
 
-### 🌎 [CuencaOS](https://cuencaos.vercel.app)
+### [CuencaOS](https://cuencaos.vercel.app)
 > *Monitor · Analyze · Protect*
 
 A web platform on water and land in El Salvador and Central America, built to help communities and decision-makers access territorial information. I handled both the **research** that defines its content and the **development** of the site.
@@ -39,11 +39,11 @@ A web platform on water and land in El Salvador and Central America, built to he
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![StartupSTEM 2026](https://img.shields.io/badge/StartupSTEM_2026-Finalist-1F4E79?style=flat-square)
 
-🔗 **[Visit the live site →](https://cuencaos.vercel.app)**
+**[Visit the live site →](https://cuencaos.vercel.app)**
 
 ---
 
-## 🛠️ Tech stack
+## Tech stack
 
 <div align="center">
 
@@ -76,7 +76,6 @@ A web platform on water and land in El Salvador and Central America, built to he
 
 I'm open to **internship, part-time and freelance** opportunities in software development.
 
-lourdesalejandraescobar.06@gmail.com · 
-[LinkedIn](https://www.linkedin.com/in/lourdes-alejandra-escobar-mart%C3%ADnez)
+Email: lourdesalejandraescobar.06@gmail.com · [LinkedIn](https://www.linkedin.com/in/lourdes-alejandra-escobar-mart%C3%ADnez)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:0A1F44&height=100&section=footer" alt="" />
+<img width="100%" src="assets/footer.svg" alt="" />
