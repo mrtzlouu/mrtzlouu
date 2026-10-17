@@ -1,6 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90" role="img" aria-label="">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-label="">
+  <style>
+    .w1{animation:w600 14s linear infinite}
+    .w2{animation:w400r 10s linear infinite}
+    .w3{animation:w800 20s linear infinite}
+    @keyframes w600{from{transform:translateX(0)}to{transform:translateX(-600px)}}
+    @keyframes w400r{from{transform:translateX(-400px)}to{transform:translateX(0)}}
+    @keyframes w800{from{transform:translateX(0)}to{transform:translateX(-800px)}}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+  </style>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#1F4E79"/>
       <stop offset="1" stop-color="#0A1F44"/>
     </linearGradient>
@@ -8,7 +17,9 @@
       <circle cx="2" cy="2" r="1.4" fill="#ffffff" fill-opacity="0.12"/>
     </pattern>
   </defs>
-  <rect width="1200" height="90" fill="url(#bg)"/>
-  <rect width="1200" height="90" fill="url(#dots)"/>
-  <text x="600" y="53" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" letter-spacing="4" fill="#9CC4F0">THANKS FOR VISITING</text>
+  <path class="w3" d="M0 30 Q200 6 400 30 T800 30 T1200 30 T1600 30 T2000 30 T2400 30 T2800 30 T3200 30 T3600 30 L3600 140 L0 140 Z" fill="#7FB4FF" fill-opacity="0.2"/>
+  <path class="w2" d="M0 42 Q100 24 200 42 T400 42 T600 42 T800 42 T1000 42 T1200 42 T1400 42 T1600 42 T1800 42 T2000 42 T2200 42 T2400 42 T2600 42 T2800 42 T3000 42 T3200 42 T3400 42 L3400 140 L0 140 Z" fill="#1F4E79" fill-opacity="0.55"/>
+  <path class="w1" d="M0 52 Q150 28 300 52 T600 52 T900 52 T1200 52 T1500 52 T1800 52 T2100 52 T2400 52 T2700 52 T3000 52 T3300 52 T3600 52 L3600 140 L0 140 Z" fill="url(#bg)"/>
+  <rect y="75" width="1200" height="65" fill="url(#dots)"/>
+  <text x="600" y="108" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" letter-spacing="5" fill="#9CC4F0">THANKS FOR VISITING</text>
 </svg>
