@@ -1,4 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Lourdes Escobar, Software and Data Developer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Lourdes Escobar">
+  <style>
+    .bar{transform-box:fill-box;transform-origin:center;animation:grow .9s ease-out both}
+    .name{animation:rise .9s ease-out .35s both}
+    .l1{animation:show .5s ease-out 1.0s both}
+    .l2{animation:show .5s ease-out 1.4s both}
+    .l3{animation:show .5s ease-out 1.8s both}
+    .l4{animation:show .5s ease-out 2.2s both}
+    .l5{animation:show .5s ease-out 2.6s both}
+    .w1{animation:w600 14s linear infinite}
+    .w2{animation:w400r 10s linear infinite}
+    .w3{animation:w800 20s linear infinite}
+    @keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+    @keyframes rise{from{opacity:0;transform:translateX(-16px)}to{opacity:1;transform:translateX(0)}}
+    @keyframes show{from{opacity:0}to{opacity:1}}
+    @keyframes w600{from{transform:translateX(0)}to{transform:translateX(-600px)}}
+    @keyframes w400r{from{transform:translateX(-400px)}to{transform:translateX(0)}}
+    @keyframes w800{from{transform:translateX(0)}to{transform:translateX(-800px)}}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+  </style>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0A1F44"/>
@@ -7,24 +26,19 @@
     <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
       <circle cx="2" cy="2" r="1.4" fill="#ffffff" fill-opacity="0.12"/>
     </pattern>
-    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#0A1F44" stop-opacity="0"/>
-      <stop offset="1" stop-color="#0A1F44" stop-opacity="0.85"/>
-    </linearGradient>
   </defs>
   <rect width="1200" height="260" fill="url(#bg)"/>
   <rect width="1200" height="260" fill="url(#dots)"/>
-  <rect x="640" width="560" height="260" fill="url(#fade)"/>
-  <!-- code motif -->
-  <g font-family="Consolas, 'Courier New', monospace" font-size="17" fill="#9CC4F0" fill-opacity="0.55">
-    <text x="860" y="78">const dev = {</text>
-    <text x="884" y="104">name: "Lourdes",</text>
-    <text x="884" y="130">stack: ["Astro", "React"],</text>
-    <text x="884" y="156">learning: true,</text>
-    <text x="860" y="182">};</text>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="17" fill="#9CC4F0" fill-opacity="0.5">
+    <text class="l1" x="860" y="72">const dev = {</text>
+    <text class="l2" x="884" y="97">name: "Lourdes",</text>
+    <text class="l3" x="884" y="122">stack: ["Astro", "React"],</text>
+    <text class="l4" x="884" y="147">learning: true,</text>
+    <text class="l5" x="860" y="172">};</text>
   </g>
-  <rect x="64" y="64" width="4" height="132" rx="2" fill="#7FB4FF"/>
-  <text x="92" y="122" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="60" font-weight="700" letter-spacing="3" fill="#FFFFFF">LOURDES ESCOBAR</text>
-  <text x="94" y="162" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="500" letter-spacing="6" fill="#9CC4F0">SOFTWARE &amp; DATA DEVELOPER</text>
-  <text x="94" y="198" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" letter-spacing="1.5" fill="#FFFFFF" fill-opacity="0.7">Santa Ana, El Salvador  ·  Co-founder &amp; Researcher @ WUJU</text>
+  <path class="w3" d="M0 205 Q200 181 400 205 T800 205 T1200 205 T1600 205 T2000 205 T2400 205 T2800 205 T3200 205 T3600 205 L3600 260 L0 260 Z" fill="#7FB4FF" fill-opacity="0.14"/>
+  <path class="w2" d="M0 218 Q100 200 200 218 T400 218 T600 218 T800 218 T1000 218 T1200 218 T1400 218 T1600 218 T1800 218 T2000 218 T2200 218 T2400 218 T2600 218 T2800 218 T3000 218 T3200 218 T3400 218 L3400 260 L0 260 Z" fill="#9CC4F0" fill-opacity="0.16"/>
+  <path class="w1" d="M0 228 Q150 204 300 228 T600 228 T900 228 T1200 228 T1500 228 T1800 228 T2100 228 T2400 228 T2700 228 T3000 228 T3300 228 T3600 228 L3600 260 L0 260 Z" fill="#0A1F44" fill-opacity="0.55"/>
+  <rect class="bar" x="64" y="62" width="4" height="96" rx="2" fill="#7FB4FF"/>
+  <text class="name" x="92" y="130" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="3" fill="#FFFFFF">LOURDES ESCOBAR</text>
 </svg>
