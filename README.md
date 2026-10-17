@@ -18,17 +18,11 @@
 
 Software Engineering student and web developer. I build technology that solves real problems, combining code, research, and business sense.
 
-<br/>
-
-<img src="https://api.iconify.design/octicon/code-16.svg?color=%237FB4FF" width="18" align="center" /> **Core Focus:** Full-Stack Web Development & Data Platforms  
-<br/>
-<img src="https://api.iconify.design/octicon/mortar-board-16.svg?color=%237FB4FF" width="18" align="center" /> **Education:** Software Engineering @ **UNICAES**  
-<br/>
-<img src="https://api.iconify.design/octicon/rocket-16.svg?color=%237FB4FF" width="18" align="center" /> **Ventures:** Co-founder @ **[WUJU](https://wuju.dev)** · Creator of **[CuencaOS](https://cuencaos.vercel.app)**  
-<br/>
-<img src="https://api.iconify.design/octicon/trophy-16.svg?color=%237FB4FF" width="18" align="center" /> **Recognition:** **StartupSTEM 2026** Finalist  
-<br/>
-<img src="https://api.iconify.design/octicon/globe-16.svg?color=%237FB4FF" width="18" align="center" /> **Languages:** Spanish (Native) · English (C1)
+- <img src="https://api.iconify.design/octicon/code-16.svg?color=%237FB4FF" width="16" align="absmiddle" /> &nbsp;**Core Focus:** Full-Stack Web Development & Data Platforms
+- <img src="https://api.iconify.design/octicon/mortar-board-16.svg?color=%237FB4FF" width="16" align="absmiddle" /> &nbsp;**Education:** Software Engineering @ **UNICAES**
+- <img src="https://api.iconify.design/octicon/rocket-16.svg?color=%237FB4FF" width="16" align="absmiddle" /> &nbsp;**Ventures:** Co-founder @ **[WUJU](https://wuju.dev)** · Creator of **[CuencaOS](https://cuencaos.vercel.app)**
+- <img src="https://api.iconify.design/octicon/trophy-16.svg?color=%237FB4FF" width="16" align="absmiddle" /> &nbsp;**Recognition:** **StartupSTEM 2026** Finalist
+- <img src="https://api.iconify.design/octicon/globe-16.svg?color=%237FB4FF" width="16" align="absmiddle" /> &nbsp;**Languages:** Spanish (Native) · English (C1)
 
 ---
 
@@ -36,15 +30,13 @@ Software Engineering student and web developer. I build technology that solves r
 
 **[CuencaOS](https://cuencaos.vercel.app)** is a web platform on water and land in El Salvador and Central America. I handled both its research and development.
 
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/Astro-0A1F44?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/Vercel-0A1F44?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Research-1F4E79?style=flat-square&logo=googleanalytics&logoColor=7FB4FF" alt="Research" />
+</p>
 
-<img src="https://api.iconify.design/simple-icons/astro.svg?color=%23FFFFFF" width="16" align="center" /> Astro &nbsp;&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons/vercel.svg?color=%23FFFFFF" width="16" align="center" /> Vercel &nbsp;&nbsp;&nbsp;
-<img src="https://api.iconify.design/octicon/graph-16.svg?color=%23FFFFFF" width="16" align="center" /> Research
-
-<br/><br/>
-
-<img src="https://api.iconify.design/octicon/link-external-16.svg?color=%237FB4FF" width="16" align="center" /> [**Visit the live site**](https://cuencaos.vercel.app)
+<img src="https://api.iconify.design/octicon/link-external-16.svg?color=%237FB4FF" width="16" align="absmiddle" /> &nbsp;[**Visit the live site →**](https://cuencaos.vercel.app)
 
 ---
 
