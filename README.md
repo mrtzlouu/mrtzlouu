@@ -14,21 +14,21 @@
 
 ---
 
-## 👩‍💻 About me
+## About me
 
 Second-year **Software Engineering** student at UNICAES in Santa Ana, El Salvador, with an uncommon mix: a technical accounting background, digital marketing experience and a drive to build products that solve real problems.
 
 I'm the **co-founder and researcher at [WUJU](https://wuju.dev)**, a venture focused on research, technology and innovation from El Salvador. Before coding, I was already leading teams, and that mix of code, data and business sense is what sets me apart.
 
-- 🔭 Currently building **CuencaOS**, a web platform on water and land in El Salvador and Central America
-- 🏆 **StartupSTEM 2026** finalist
-- ⚡ Participant in **Cursor's 24-hour buildathon** (July 2026)
-- 🌐 English **C1**, native Spanish
-- 🌱 Always learning: if I don't know a technology yet, I learn it fast
+- Currently building **CuencaOS**, a web platform on water and land in El Salvador and Central America
+- **StartupSTEM 2026** finalist
+- Participant in **Cursor's 24-hour buildathon** (July 2026)
+- English **B2+**, native Spanish
+- Always learning: if I don't know a technology yet, I learn it fast
 
 ---
 
-## 🚀 Featured project
+## Featured project
 
 ### 🌎 [CuencaOS](https://cuencaos.vercel.app)
 > *Monitor · Analyze · Protect*
@@ -61,7 +61,7 @@ A web platform on water and land in El Salvador and Central America, built to he
 
 ---
 
-## 📊 GitHub stats
+## GitHub stats
 
 <div align="center">
 
@@ -72,10 +72,11 @@ A web platform on water and land in El Salvador and Central America, built to he
 
 ---
 
-## 📫 Let's connect
+## Let's connect
 
 I'm open to **internship, part-time and freelance** opportunities in software development.
 
-📩 lourdesalejandraescobar.06@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/lourdes-alejandra-escobar-mart%C3%ADnez)
+lourdesalejandraescobar.06@gmail.com · 
+[LinkedIn](https://www.linkedin.com/in/lourdes-alejandra-escobar-mart%C3%ADnez)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E79,100:0A1F44&height=100&section=footer" alt="" />
