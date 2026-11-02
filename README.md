@@ -3,11 +3,10 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=7FB4FF&center=true&vCenter=true&width=640&height=40&lines=Software+Engineering+Student+%40+UNICAES;Web+%26+Data+Developer;Co-founder+%26+Researcher+%40+WUJU;Building+technology+from+El+Salvador)](https://github.com/mrtzlouu)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=7FB4FF&center=true&vCenter=true&width=640&height=40&lines=Software+Engineering+Student+%40+UNICAES;Web+%26+Data+Developer;Building+technology+from+El+Salvador)](https://github.com/mrtzlouu)
 
 <a href="https://www.linkedin.com/in/lourdes-alejandra-escobar-mart%C3%ADnez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:lourdesalejandraescobar.06@gmail.com"><img src="https://img.shields.io/badge/Email-0A1F44?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://wuju.dev"><img src="https://img.shields.io/badge/WUJU-1F4E79?style=for-the-badge&logo=safari&logoColor=white" alt="WUJU" /></a>
 <a href="https://cuencaos.vercel.app"><img src="https://img.shields.io/badge/CuencaOS-0A1F44?style=for-the-badge&logo=vercel&logoColor=white" alt="CuencaOS" /></a>
 
 </div>
@@ -20,7 +19,7 @@ Software Engineering student and web developer. I build technology that solves r
 
 - <img src="https://api.iconify.design/octicon/code-16.svg?color=%237FB4FF" width="16" align="absmiddle" /> &nbsp;**Core Focus:** Full-Stack Web Development & Data Platforms
 - <img src="https://api.iconify.design/octicon/mortar-board-16.svg?color=%237FB4FF" width="16" align="absmiddle" /> &nbsp;**Education:** Software Engineering @ **UNICAES**
-- <img src="https://api.iconify.design/octicon/rocket-16.svg?color=%237FB4FF" width="16" align="absmiddle" /> &nbsp;**Ventures:** Co-founder @ **[WUJU](https://wuju.dev)** · Creator of **[CuencaOS](https://cuencaos.vercel.app)**
+- <img src="https://api.iconify.design/octicon/rocket-16.svg?color=%237FB4FF" width="16" align="absmiddle" /> &nbsp;**Ventures:** Creator of **[CuencaOS](https://cuencaos.vercel.app)**
 - <img src="https://api.iconify.design/octicon/trophy-16.svg?color=%237FB4FF" width="16" align="absmiddle" /> &nbsp;**Recognition:** **StartupSTEM 2026** Finalist
 - <img src="https://api.iconify.design/octicon/globe-16.svg?color=%237FB4FF" width="16" align="absmiddle" /> &nbsp;**Languages:** Spanish (Native) · English (C1)
 
@@ -77,7 +76,6 @@ Open to internships, part-time, and freelance roles in software development. Let
 
 <a href="mailto:lourdesalejandraescobar.06@gmail.com"><img src="https://img.shields.io/badge/Email-0A1F44?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/lourdes-alejandra-escobar-mart%C3%ADnez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://wuju.dev"><img src="https://img.shields.io/badge/WUJU-1F4E79?style=for-the-badge&logo=safari&logoColor=white" alt="WUJU" /></a>
 
 </div>
 
